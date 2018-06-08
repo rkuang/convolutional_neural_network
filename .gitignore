@@ -11,3 +11,4 @@ hw4-submission/
 model.hdf5
 rip.py
 *.json
+*.txt

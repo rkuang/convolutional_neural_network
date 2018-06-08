@@ -1,4 +1,4 @@
-#convolutional neural networks
+# convolutional neural networks
 CMPSC 165B Machine Learning Project
 
 Create a machine learning model to predict the Fashion MNIST data set.

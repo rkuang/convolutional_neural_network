@@ -4,11 +4,6 @@ bin/
 include/
 lib/
 .vscode/
-hw4_test/
-hw4_train/
-hw4-submission/
 *.zip
-model.hdf5
 rip.py
 *.json
-*.txt
